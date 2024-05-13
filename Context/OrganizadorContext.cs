@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using TrilhaApiDesafio.Models;
-
 namespace TrilhaApiDesafio.Context
 {
     public class OrganizadorContext : DbContext
